@@ -8568,9 +8568,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="245.872" y1="137.668" x2="210.82" y2="137.668" width="0.2032" layer="97" style="shortdash"/>
 <wire x1="210.82" y1="137.668" x2="210.82" y2="177.8" width="0.2032" layer="97" style="shortdash"/>
 <text x="2.54" y="0" size="1.778" layer="95">Released under the Creative Commons Attribution Share-Alike 3.0 License</text>
-<text x="2.54" y="7.62" size="1.778" layer="95">http://creativecommons.org/licenses/by-sa/3.0</text>
-<text x="2.54" y="5.08" size="1.778" layer="95">Original Arduino Mini Design by Team Arduino</text>
-<text x="2.54" y="2.54" size="1.778" layer="95">Arduino Pro Mini Design by Spark Fun Electronics</text>
 <text x="212.598" y="172.72" size="1.778" layer="97">Optional Pullups for I2C lines</text>
 <text x="149.86" y="25.4" size="5.08" layer="94">By: Chip McClelland</text>
 <text x="86.36" y="177.8" size="1.778" layer="91">Input: 2.5 to 16V
